@@ -1,0 +1,5 @@
+Texts to analyze:,Result:,timestamp
+You are a lucky winner of $5000!,"The text message: ""You are a lucky winner of $5000!"", is not spam.",2025-01-16 18:28:31.418565
+You won 2 free tickets to the Super Bowl.,"The text message: ""You won 2 free tickets to the Super Bowl."", is not spam.",2025-01-16 18:28:41.097286
+You won 2 free tickets to the Super Bowl text us to claim your prize.,"The text message: ""You won 2 free tickets to the Super Bowl text us to claim your prize."", is spam.",2025-01-16 18:28:49.045474
+Thanks for registering. Text 4343 to receive free updates on medicare.,"The text message: ""Thanks for registering. Text 4343 to receive free updates on medicare."", is spam.",2025-01-16 18:28:55.145440
